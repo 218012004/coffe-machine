@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.218012004.coffemachine.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.218012004.coffemachine.MyBundle
 
 class MyApplicationService {
 
